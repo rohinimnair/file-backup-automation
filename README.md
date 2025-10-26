@@ -19,15 +19,3 @@ Key features:
   - `.sh` and `.txt` for Linux  
 
 ---
-
-## Table of Contents
-
-- [MS-DOS Batch Script](#ms-dos-batch-script)  
-- [Linux Bash Script](#linux-bash-script)  
-- [Usage](#usage)  
-- [Features](#features)  
-- [Test Cases](#test-cases)  
-- [References](#references)  
-- [License](#license)  
-
----
